@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blockchain Node Dashboard</title>
+</head>
+<body style="font-family: sans-serif;">
+    <h1>Welcome to P2P Blockchain Node</h1>
+    <p>This is a simple HTML interface for the Flask blockchain node.</p>
+    <ul>
+        <li><a href="/mine">Mine Block</a></li>
+        <li><a href="/chain">View Blockchain</a></li>
+        <li><a href="/sync">Sync Chain</a></li>
+    </ul>
+    <p>Use Postman or curl for transactions and node registration.</p>
+</body>
+</html>
